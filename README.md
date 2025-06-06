@@ -56,6 +56,8 @@ Sou Lorenzo, um desenvolvedor focado em **engenharia de software** e um entusias
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/git-original.svg" height="30" alt="java logo"  /
 </div>
 
 
