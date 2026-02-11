@@ -11,21 +11,14 @@
 
 ### Olá e Bem-vindo(a)! 👋
 
-Sou Lorenzo, um desenvolvedor focado em **engenharia de software** e um entusiasta do universo **equestre**. Em constante evolução, meu objetivo é alavancar tecnologias de ponta para criar soluções inovadoras que unam esses dois mundos.
+Sou Lorenzo, estudante de Engenharia de Software com foco em desenvolvimento Back-end utilizando Java e Spring Boot.
+Possuo experiência prática na criação de APIs REST, integração com banco de dados e versionamento de código com Git/GitHub.
 
-- 🌱 **Aprendizado Atual:** Aprofundando conhecimentos em **Engenharia de Software** e experimentando novas tecnologias.
-- 🎯 **Objetivo Profissional:** Desenvolver software que realmente faça a diferença e traga impacto positivo.
-- 🏇 **Hobbies:** Além da tecnologia, dedico tempo ao mundo equestre, como o laço comprido.
-  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lorenzosprenger&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenzosprenger&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Busco uma oportunidade de estágio em desenvolvimento Back-end para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções reais.
+
+Além da tecnologia, sou entusiasta do universo equestre, praticante de laço comprido.
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/lorenzosprenger/count.svg?"  />
-</div>
 
 ---
 
