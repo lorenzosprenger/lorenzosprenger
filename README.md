@@ -60,7 +60,7 @@ Possuo experiência prática na criação de **APIs REST**, integração com ban
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lorenzosprenger&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_bust=1" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lorenzosprenger&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_bust=0" alt="Top Languages" />
 </div>
 
 
