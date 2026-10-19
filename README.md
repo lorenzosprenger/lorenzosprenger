@@ -24,31 +24,19 @@
 
 ## Sobre
 
-Estudante de Engenharia de Software, com foco em desenvolvimento back-end. Trabalho principalmente com Java e Spring Boot, construindo APIs REST com persistência em MySQL, e uso Git e GitHub no dia a dia.
+Estudante de Engenharia de Software com foco em back-end. Desenvolvo APIs REST com Java e Spring Boot, com persistência usando Spring Data JPA, e uso Git e GitHub para versionar meus projetos.
 
-Estou em busca de uma vaga na área para trabalhar em equipe, aprender com código de produção e entregar software que funcione bem. Os projetos que mais representam meu trabalho estão fixados no topo do perfil.
+Busco minha primeira oportunidade na área, em estágio ou como júnior, para trabalhar em equipe, aprender com código de produção e entregar software que funcione bem.
 
-Fora do computador, pratico laço comprido.
-
-📍 Sapucaia do Sul, RS
+Sapucaia do Sul, RS. Fora do computador, pratico laço comprido.
 
 ---
 
-## Formação
+## Projetos
 
-**Engenharia de Software**, La Salle
-Mar/2025 – atual
-
-**Técnico em Informática para Internet**, Unisinos/Senac
-Concluído em 2024
-
----
-
-## Cursos
-
-- **Java Completo: Programação Orientada a Objetos**, Udemy (Nélio Alves)
-- **Formação Full Stack** (HTML, CSS, JavaScript, Git), Alura
-- **Inglês**, Fisk (em andamento)
+- **[crud-agendamento-spring](https://github.com/lorenzosprenger/crud-agendamento-spring)**: API REST de agendamento de horários com validação de conflitos, arquitetura em camadas (Controller, Service, Repository, Entity) e endpoints documentados e testados no Postman. Java 21, Spring Boot, Spring Data JPA, H2.
+- **[Lstock-java](https://github.com/lorenzosprenger/Lstock-java)**: API de controle de produtos com listagem paginada, ordenação e carga inicial de dados. Java, Spring Boot, Spring Data JPA, H2.
+- **[fipe-site](https://github.com/lorenzosprenger/fipe-site)**: site de consulta de valores da Tabela FIPE consumindo uma API pública. HTML, CSS e JavaScript.
 
 ---
 
@@ -56,25 +44,21 @@ Concluído em 2024
 
 **Linguagens:** Java, Python, JavaScript, SQL
 **Back-end:** Spring Boot, Spring Data JPA, APIs REST
-**Banco de dados:** MySQL
+**Bancos de dados:** MySQL, H2
 **Front-end:** HTML5, CSS3
-**Ferramentas:** Git, GitHub, IntelliJ IDEA
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,js,html,css,git,github,idea&perline=10" alt="Tecnologias" />
-</div>
+**Ferramentas:** Git, GitHub, Maven, Postman, IntelliJ IDEA
 
 ---
 
-## GitHub
+## Formação
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lorenzosprenger&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzosprenger&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+**Engenharia de Software**, La Salle (mar/2025 – atual)
+**Técnico em Informática para Internet**, Unisinos/Senac (2024)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lorenzosprenger/lorenzosprenger/output/snake.svg" alt="Snake animation" />
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" />
-</div>
+---
+
+## Cursos
+
+- Java Completo: Programação Orientada a Objetos, Udemy (Nélio Alves)
+- Formação Full Stack (HTML, CSS, JavaScript, Git), Alura
+- Inglês (em andamento)
